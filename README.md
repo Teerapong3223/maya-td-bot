@@ -22,7 +22,7 @@ To use this tool, you will need a valid **Gemini API Key**. You can obtain one f
 1. Download or clone this repository.
 2. Open the main script file (e.g., `maya_bot_pro.py`).
 3. Locate the `API_KEY` variable inside the script.
-4. Replace `"YOUR_GEMINI_API_KEY_HERE"` with your actual API key.
+4. Replace `"YOUR_GEMINI_API_KEY_HERE"`( at the line number 38 ) with your actual API key.
 5. Run the script inside the Autodesk Maya Script Editor.
 
 ---
