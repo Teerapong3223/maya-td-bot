@@ -25,5 +25,9 @@ To use this tool, you will need a valid **Gemini API Key**. You can obtain one f
 4. Replace `"YOUR_GEMINI_API_KEY_HERE"`( at the line number 38 ) with your actual API key.
 5. Run the script inside the Autodesk Maya Script Editor.
 
+https://youtu.be/_uS4oIFnTaQ
+
 ---
 *Created by a developer passionate about 3D Pipeline Automation.*
+
+
